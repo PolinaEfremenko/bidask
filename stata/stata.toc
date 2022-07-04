@@ -1,0 +1,9 @@
+v 1.0.1
+d Materials by Polina Efremenko
+d University of Neuchatel
+d polina.efremenko@unine.ch
+d https://github.com/PolinaEfremenko
+
+d 'edge': Implements an efficient estimator of the effective  bid-ask spread from Open, High, Low, and Close prices  as proposed in Ardia, Guidotti, Kroencke (2021)
+
+p edge

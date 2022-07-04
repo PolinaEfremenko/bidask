@@ -1,0 +1,10 @@
+v 1.0.1
+d 'EDGE': Efficient Estimation of Bid-Ask Spreads from Open,  High, Low, and Close Prices
+d 
+d Implements an efficient estimator of the effective  bid-ask spread from Open, High, Low, and Close prices  as proposed in Ardia, Guidotti, Kroencke (2021)
+d 
+d Distribution-Date:   20220701
+d License: GPL-3.0
+d 
+F edge.ado
+F edge.sthlp
