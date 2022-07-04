@@ -9,6 +9,7 @@ Available in:
 - [MATLAB](https://github.com/eguidotti/bidask/tree/main/matlab)
 - [SAS](https://github.com/eguidotti/bidask/tree/main/sas)
 - [C++](https://github.com/eguidotti/bidask/tree/main/C++)
+- [STATA](https://github.com/eguidotti/bidask/tree/main/stata)
 
 You can also check the [pseudocode](https://github.com/eguidotti/bidask/tree/main/pseudocode) to implement the estimator in any programming language.
 
